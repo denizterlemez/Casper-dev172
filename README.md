@@ -9,7 +9,7 @@
 <div align="center">
 <div>
   <img src="https://www.python.org/static/community_logos/python-powered-w.svg" height="175" width="175" style="margin: 10px">
-  <img src="./java-seeklogo.com.svg" height="130" width="130" style="margin: 10px">
+  <img src="./java-seeklogo.com.svg" height="130" width="130" style="margin: 10px;margin-bottom: 6px;">
   </div>
 
 <br>
