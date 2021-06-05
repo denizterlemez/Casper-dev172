@@ -7,7 +7,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Casper-dev172"></img></div>
 <br>
 <div align="center">
-![:the_jam:](https://cdn.discordapp.com/emojis/745354525958996138.gif?v=1) 
 
 <div>
 
