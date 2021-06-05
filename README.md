@@ -7,7 +7,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Casper-dev172"></img></div>
 <br>
 <div align="center">
-  ![caption](./mp4 (1).gif)
+  <video src="./mp4 (1).gif"></video>
 
 <div>
 
