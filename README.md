@@ -7,7 +7,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Casper-dev172"></img></div>
 <br>
 <div align="center">
-  <video src="./mp4 (1).gif"></video>
+![:the_jam:](https://media.tenor.co/videos/9eb976e57cfb1e5641e94591a9c37134/mp4) 
 
 <div>
 
